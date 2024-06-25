@@ -3,13 +3,9 @@ this repo is made to disable discord tokens by making them public, so if you wan
 - I cant stop meowing!!! :33333
 
 - MTI0NjkzMDQ4NTc1NDcyODQ3OQ.G2Ez2L.ikoKtH1edR3EO6mOTqlbo0NPlrKvu3OllZO36c
-
 - MTE5NTg0ODc1MjI0NjgyNTA1Mg.Gaa15m.6P5B1ZqVZDkzEJ1KJVCwEZrI2qMc_iYTK6lSK0
-
 - MTE5MzgwMzA0MDc0NzE3MTg2MA.GshiN5.0_ZPPt-ihfojKuDIZKCjaaalSyA1SMTmz34zAE
-
 - MTI1MjM2MzM1NDQwNDgxOTEzOA.Gu7T7x.fG7ImMChaLHchh6lcv8_MHa3JQWR8Fn4L12thY
-
 - MTE4NDE5NDc5MTI1NzQwNzU5OQ.Glvq6p.77zEt6mjUbAaKoLSgN3FYozePY669QO8nkgffg
 - MTE4NDE5NDc5MTI1NzQwNzU5OQ.GdmA2F.RWwRJcnmWBsJg7aAUMSJpB2vHhoCAZkhO-Wr3g
 - MTI1MTE4NjM4OTk1MzgxMDQ5NQ.GcIZgp.AMqtZCZqZtUob-d3gzU2LOM5ax5FJRSnHAEFIA
@@ -41,7 +37,6 @@ this repo is made to disable discord tokens by making them public, so if you wan
 - MTIzODQ5ODc4MjE5NTQ4MjY5NA.GkSDpb.jG1gPk_g1LnlBEHlMGwUcQd-U1qCjeaJbc2Bn8
 - MTI0MjgyODA0NTYzMTQ5MjE0Nw.GaK9_b.DkeSn-Pej4eo5IcrUmOmowhbH0dXKH8vZX3FZ4
 - MTI1MTk1MTY5NzUxMzY3NjkwMQ.GiMHbn.X9GDqCvrOuKnpbl_UBD8D1ViJZrODoGUzm6hFU
-
 - MTI1NDkyMzczMDE3ODY3NDgwMw.GNKnH3._2hi153EQeLcF4SWSwr0pQuzH__TVonJih1mFM
 - MTI1NDI2NzMxMTc1NDMxNzkzNQ.GoPcja.FF7ZvdPuXSDJlSfQE-IZwjF3_I5m58m9KQJ8fI
 - MTI1NDQzMzU1ODYzNDgyNzc3Nw.GK2rd-.h7Y1QUV4VnWO9VL_0rYq28ztAmfk_jdoJtvfEo
