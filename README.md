@@ -74,3 +74,4 @@ this repo is made to disable discord tokens by making them public, so if you wan
 - MTIyOTc2OTg1NDUyNTkwMzAyMg.GzXTTs.QvGKyBTRCwZ__Kp7MunohboXaQQ5HVQVdoWZgA
 - MTE0Mjk0NTIyOTE1NTA4NjM4Ng.GNC5nh.GedwJI0vdVK867mzXHvlAYPudHoYL8kC77kzM0
 - MTExOTY4MDYxNDIxNjUxNTY5NQ.G4EXsN.rare5BIxmEl7wss7NznVobbl9DJL5xulluzALs
+- MTIyOTQwMTgyMTIyMzg0NTk2MQ.GNBkL2.fyH6QqmGNy52Fx0WNTo5XR7RLT2EQEAdGT-F68
