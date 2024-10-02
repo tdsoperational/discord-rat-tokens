@@ -8,7 +8,7 @@ Old tokens are usually moved to [old_tokens.txt](https://github.com/tdsoperation
 **Q: Why has my token been leaked here?**  
 **A: Your token might be here because:**  
 - You used it in malware. This is most common.  
-- It was exposed publicly.  
+- It was exposed publicly. This is quiet rare, however not impossible.  
 
 ##  
 
