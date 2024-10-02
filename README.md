@@ -1,15 +1,15 @@
-This repository is made to disable discord tokens by making them public.
-If your token has been leaked according to discord, then its a skill issue.
-Want to help with disabling malware tokens? https://tdsmental.pythonanywhere.com/
+This repository is made to disable discord tokens by making them public.  
+If your token has been leaked according to discord, then its a skill issue.  
+Want to help with disabling malware tokens? https://tdsmental.pythonanywhere.com/  
 
-## Q&A
+## Q&A  
 
 **Q: Why has my token been leaked here?**  
-**A: Your token might be here because:**
-- You used it in malware. This is most common.
-- It was exposed publicly.
+**A: Your token might be here because:**  
+- You used it in malware. This is most common.  
+- It was exposed publicly.  
 
-## 
+##  
 
 - MTI4Nzc5NzA2NzAwMjk0MTU0Mw.GkMJ2K.jKBIRLRJtVbvy4Nj-GArf--oSVv_fqnChFlk60
 - MTI4OTcwNjgwMDE5MDU4NzA0MQ.GLPbKO._bSSJm0gQWkbYqibHsDuqzcfNGezAcMtUoJS2g
