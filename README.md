@@ -3344,3 +3344,4 @@ Old tokens are usually moved to [old_tokens.txt](https://github.com/tdsoperation
 - MTI5MDMyNTk2MTQzNDb110I3NQ.GihnzN.gwGH81Pi3AkFNUBIwMsHbjfbbtb7Grx0ngM0es
 - MTI5MDMyNTk2MTQzNDc110I3NQ.GihnzN.gwGH81Pi3AkFNUBIwMsHbjfbbtb7Grx0ngM0es
 - MTI5MDMyNTk2MTQzNDd110I3NQ.GihnzN.gwGH81Pi3AkFNUBIwMsHbjfbbtb7Grx0ngM0es
+- MTI5MDMyNTk2MTQzNDe300I3NQ.GihnzN.gwGH81Pi3AkFNUBIwMsHbjfbbtb7Grx0ngpyvr
