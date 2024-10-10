@@ -96,3 +96,4 @@ Old tokens are usually moved to [old_tokens.txt](https://github.com/tdsoperation
 - MTI5MDQwNTk0MjMwNjc5OTY0OA.GlbaaH.G8_UXZHPr4SDr15gYrkcD-QvN2Vo_UWuinxjDQ
 - MTI5MDQwNTk0MjMwNjc5OTY0OA.GmbaaH.G8_UXZHPr4SDr15gYrkcD-QvN2Vo_UWuinxjDQ
 - MTI5MDQwNTk0MjMwNjc5OTY0OA.GnbaaH.G8_UXZHPr4SDr15gYrkcD-QvN2Vo_UWuinxjDQ
+- MTI5MDQwNTk0MjMwNjc5OTY0OA.GobaaH.G8_UXZHPr4SDr15gYrkcD-QvN2Vo_UWuinxjDQ
